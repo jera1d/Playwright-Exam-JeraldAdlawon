@@ -11,9 +11,9 @@ Files Included
 - tests/coffee-purchase.spec.ts - End-to-end purchase test and bonus translation/right-click scenarios.
 
 Test Scenarios in the Suite
-1. End-to-End Purchase** - Selects multiple coffees, handles the promo popup, fills out customer info, and verifies the success message.
-2. Bonus A (Translation)** - Double-clicks the coffee title to verify translation to Chinese.
-3. Bonus B (Right-Click Dialog)** - Right-clicks a coffee item to trigger the modal confirmation dialog.
+1. End-to-End Purchase - Selects multiple coffees, handles the promo popup, fills out customer info, and verifies the success message.
+2. Bonus A (Translation) - Double-clicks the coffee title to verify translation to Chinese.
+3. Bonus B (Right-Click Dialog) - Right-clicks a coffee item to trigger the modal confirmation dialog.
 
 
 Run the tests in headed mode using: npx playwright test --headed.
