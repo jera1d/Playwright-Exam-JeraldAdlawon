@@ -3,7 +3,7 @@ Coffee Cart Playwright Testing (Playwright)
 This is my Playwright test suite for the Coffee Cart exam. It tests ordering coffee, handling promo popups, checking out, and running bonus UI interactions across multiple browsers.
 
 Files Included
-- `\playwright.config.ts - Configuration file for multi-browser execution and test directory settings.
+- `playwright.config.ts - Configuration file for multi-browser execution and test directory settings.
 - tsconfig.json - TypeScript configuration enabling proper file compilation and discovery.
 - data/checkout-data.ts - Contains test customer details, menu items, and success messages.
 - pages/coffee.page.ts - Page Object Model (POM) containing all locators and user actions.
